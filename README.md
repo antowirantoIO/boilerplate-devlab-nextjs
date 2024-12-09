@@ -1,6 +1,6 @@
 ### Next Architecture Project Overview
 
-**Created with ❤️ by [Wahyu Agus Arifin](https://github.com/itpohgero)**
+**Created with ❤️ by [Anto Wiranto](https://github.com/antowirantoIO)**
 
 This project leverages a modern stack to enhance development efficiency, code consistency, and performance. It is built using powerful libraries and tools for optimal experience in managing state, handling forms, and formatting code.
 
@@ -106,7 +106,5 @@ make start-production
 Open http://localhost:3003
 
 
-Credit to [Wahyu Agus Arifin](https://github.com/itpohgero)
-- itpohgero@gmail.com
-- ig : @wahyuagusarifin
-- linkedin : [wahyuagusarifin](https://id.linkedin.com/in/wahyu-agus-arifin-8a6992215)
+Credit to [Anto Wiranto](https://github.com/antowirantoIO)
+- antow0808@gmail.com
